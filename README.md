@@ -1,3 +1,5 @@
+<img width="1866" height="853" alt="ad2" src="https://github.com/user-attachments/assets/757ee4f9-202c-42bc-a3fc-b9077e9315a2" />
+
 # 🎙️ Multilingual AI Audio Transcription Pipeline
 
 An end-to-end Data Science application that leverages deep learning to transcribe and translate multilingual audio files. 
